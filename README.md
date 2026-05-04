@@ -61,24 +61,11 @@ Shows a direct correlation between higher speed and event occurrence.
 - Raise awareness of safe driving practices.
 - Use top-rated drivers with more miles as mentors for high-risk drivers.
 
-## Files in This Repository
-
-- `presentation/Truck-fleet-analysis-project.pptx` — project presentation.
-- `data/` — source data used for analysis.
-- `notebooks/` — analysis notebooks.
-- `scripts/` — reusable code for processing or modeling.
-
-## How to Use
-
-1. Clone the repository.
-2. Open the presentation or notebooks.
-3. Review the dashboards and risk findings.
-4. Update the analysis with new fleet data if needed.
 
 ## Author
 
-Add your name here.
+Rohith Thiagarajan
 
 ## License
+MIT License 2.0
 
-Add your chosen license here.
