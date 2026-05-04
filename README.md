@@ -67,5 +67,5 @@ Shows a direct correlation between higher speed and event occurrence.
 Rohith Thiagarajan
 
 ## License
-MIT License 2.0
+MIT license
 
