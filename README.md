@@ -1,7 +1,7 @@
 # Truck-Fleet-Risk-Analysis-and-Driver-Safety-Optimization
 This project analyzes truck fleet data to identify risky drivers and factors associated with higher risk, including events, total distance, average speed, mileage, and incident patterns.
 
-## I Project Overview
+## I.  Project Overview
 
 The goal of this project is to predict driver risk and help reduce accidents involving large commercial trucks in the US. The analysis uses fleet data to identify high-risk drivers, understand event patterns, and support safer driving practices.
 
